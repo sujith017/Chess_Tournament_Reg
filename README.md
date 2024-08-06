@@ -1,2 +1,2 @@
-### This is an sample website created for practice
+### This is an sample website created for practice purpose
 
